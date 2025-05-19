@@ -9,7 +9,7 @@ Author: Mateusz Jędrzejewski-Szpak
   
 The test topology is shown in the image below:
   
-  ![Alt Text - Topology from GNS3](fotki/topo.png)
+  ![Alt Text - Topology from GNS3](images/topo.png)
 
   ubu-ryuupg-1 is a Ubuntu Docker container (https://hub.docker.com/r/gns3/ubuntu) with Python version () and the RYU framework installed;
   
